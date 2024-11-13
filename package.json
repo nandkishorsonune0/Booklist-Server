@@ -4,7 +4,7 @@
   "main": "server.js",
   "scripts": {
     "test": "node",
-    "start": "node server.js"
+    "start": "node api/index.ts"
   },
   "author": "",
   "license": "ISC",
